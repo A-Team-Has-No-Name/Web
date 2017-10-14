@@ -1,0 +1,16 @@
+# npm
+node_modules/
+npm-debug.log
+
+# WebStorm
+.idea/
+
+babel_cache/
+
+# Webpack
+src/static/js/bundle.js
+
+# Sass
+.sass-cache/
+src/static/css/style.css
+src/static/css/style.css.map
