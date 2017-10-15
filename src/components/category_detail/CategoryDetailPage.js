@@ -10,7 +10,14 @@ export default class CategoriesListPage extends React.Component {
     render(){
         return(
             <div className="container">
-
+                <div className="row">
+                    <div className="col-lg-12">
+                        <h1 className="page-header">&nbsp;
+                            <small></small>
+                        </h1>
+                    </div>
+                </div>
+                <br/><br/>
                 <div className="row">
                     <Tabs/>
                 </div>
